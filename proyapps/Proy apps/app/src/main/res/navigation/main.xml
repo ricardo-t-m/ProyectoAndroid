@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/inicio">
+
+    <fragment
+        android:id="@+id/inicio"
+        android:name="com.sem9.bertolotto.inicio"
+        android:label="Inicio"
+        tools:layout="@layout/fragment_inicio" />
+    <fragment
+        android:id="@+id/reservas"
+        android:name="com.sem9.bertolotto.reservas"
+        android:label="Reservas"
+        tools:layout="@layout/fragment_reservas" />
+    <fragment
+        android:id="@+id/pagos"
+        android:name="com.sem9.bertolotto.pagos"
+        android:label="Pagos"
+        tools:layout="@layout/fragment_pagos" />
+    <fragment
+        android:id="@+id/historial"
+        android:name="com.sem9.bertolotto.historial"
+        android:label="Historial"
+        tools:layout="@layout/fragment_historial" />
+    <fragment
+        android:id="@+id/ajustes"
+        android:name="com.sem9.bertolotto.ajustes"
+        android:label="Ajustes"
+        tools:layout="@layout/fragment_ajustes" />
+    <fragment
+        android:id="@+id/reunion"
+        android:name="com.sem9.bertolotto.reunion"
+        android:label="fragment_reunion"
+        tools:layout="@layout/fragment_reservas" />
+</navigation>

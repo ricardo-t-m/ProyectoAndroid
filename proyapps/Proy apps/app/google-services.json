@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881843750522",
+    "firebase_url": "https://prueba-c001a-default-rtdb.firebaseio.com",
+    "project_id": "prueba-c001a",
+    "storage_bucket": "prueba-c001a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881843750522:android:3fd18e337ef893f802ddc3",
+        "android_client_info": {
+          "package_name": "com.sem9.bertolotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881843750522-k0n57726eli2963ncgrapv7sse1go3km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sem9.bertolotto",
+            "certificate_hash": "b4486b676da752b37ee3fbfe5a37a3e0a3fe1e71"
+          }
+        },
+        {
+          "client_id": "881843750522-ru48jun1s9os24ls54g46pe0vns7lam5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-Lsr3CB0EHqMYZP83-bl3xhth2oTDvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881843750522-ru48jun1s9os24ls54g46pe0vns7lam5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
